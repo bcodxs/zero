@@ -2,7 +2,8 @@ import os
 import sys
 import colorama
 
-
+#Add color coming
+#creamos una clase
 class ping:
    def __init__(self):
        print ("nombre del sitio : \r")
@@ -11,3 +12,4 @@ class ping:
        print (ping)
 if __name__=="__main__":
 	ping()
+         #ejecutamos
